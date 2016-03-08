@@ -1,0 +1,28 @@
+name: trialbykg
+favicon: null
+layout_spectrum: 0.6498957606963813
+typography_spectrum: 0.4348608134314418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3821729887276888
+  lightness: 0.5434702371712774
+  saturation: 0.6968896687030792
+  rhythmicContrast: 0.3156956124585122
+purpose: []
